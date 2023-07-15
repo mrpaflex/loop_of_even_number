@@ -1,0 +1,36 @@
+header{
+    background: white;
+}
+nav ul li {
+    display: block;
+    
+}
+#bigsection{
+    background:darkcyan;
+}
+
+.cente{
+    text-align: center;
+    color: white;
+}
+
+
+.imagsection ul{
+    
+    
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    
+
+
+}
+.imagsection ul li img{
+    border: 2px solid transparent;
+    width: 33.33%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
